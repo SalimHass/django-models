@@ -23,4 +23,5 @@ in this lab we started working with django, here is the steps we followed to cre
 we created only two paths  with template for two views , a list view and a detaled view. we constructed a snack model in the models , it takes the name and the purchaser.
 
 ## pull request link 
+https://github.com/SalimHass/django-models/pull/1
 
