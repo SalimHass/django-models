@@ -20,7 +20,7 @@ in this lab we started working with django, here is the steps we followed to cre
 17. after each adding to a model use `python manage.py makemigrations` and then `python manage.py migrate`
 -----
 ## in this lab
-we created only two paths , Home and About . with template for two views , a list view and a detaled view. we constructed a snack model in the models , it takes the name and the purchaser.
+we created only two paths  with template for two views , a list view and a detaled view. we constructed a snack model in the models , it takes the name and the purchaser.
 
 ## pull request link 
 
